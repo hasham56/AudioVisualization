@@ -4,6 +4,7 @@ This is the Audio Visualization in C# using "Bass.net"... there is very less mat
 ## Features
  - **Audio Player**
  - **Audio Visualization**
+ - **More then 80 Designs**
  - **Bass.net implementation**
  - **Exclusive Full Screen**
    - Escape Key: Exit Full Screen
@@ -19,3 +20,5 @@ This is the Audio Visualization in C# using "Bass.net"... there is very less mat
 ## ![](Resources/ReadMe.png)
 ## ![](Resources/Readme2.png)
 ## ![](Resources/Reademe3.png)
+
+Note: Custom Plugins are in Debug Folder!

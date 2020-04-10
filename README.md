@@ -21,4 +21,4 @@ Note: Custom Plugins are in Debug Folder!
 ## Here are some screenshot of Audio Player.
 ## ![](Resources/ReadMe.png)
 ## ![](Resources/Readme2.png)
-## ![](Resources/Reademe3.png)
+## ![](Resources/Readme3.png)

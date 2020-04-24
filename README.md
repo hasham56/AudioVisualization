@@ -22,3 +22,5 @@ Note: Custom Plugins are in Debug Folder!
 ## ![](Resources/ReadMe.png)
 ## ![](Resources/Readme2.png)
 ## ![](Resources/Readme3.png)
+
+If any queries you can ask me i will try to reply as soon as possible!
